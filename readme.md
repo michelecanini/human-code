@@ -1,3 +1,5 @@
+<img src="IMG-20230515-WA0005.jpg" alt="grafic">
+
 PROBLEMA: SCEGLIERE COSA C'E' DA GUARDADE SU NETFLIX STASERA
 
 1) Inizio
@@ -32,6 +34,3 @@ PROBLEMA: SCEGLIERE COSA C'E' DA GUARDADE SU NETFLIX STASERA
     12.2) :ALTRIMENTI - NO tornare a consultare il catalogo
 
 13) Fine
-
-
-<img src="IMG-20230515-WA0005.jpg" alt="grafic">
